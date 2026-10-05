@@ -1,0 +1,9 @@
+{
+  "compiler": "0.8.23+commit.f704f362.Emscripten.clang",
+  "immutableAddressApplied": true,
+  "exactRuntimeMatch": true,
+  "compiledHash": "0x179bcb847d3401ac830789a21cc37ed846fd5da9582a9c9d4b5140b6f26bd1a1",
+  "explorerHash": "0x179bcb847d3401ac830789a21cc37ed846fd5da9582a9c9d4b5140b6f26bd1a1",
+  "source": "https://eth.blockscout.com/api/v2/smart-contracts/0x000100abaad02f1cfC8Bbe32bD5a564817339E72",
+  "checkedAt": "2026-10-05T10:18:20.398Z"
+}

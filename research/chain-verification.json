@@ -1,0 +1,186 @@
+{
+  "checkedAt": "2026-10-05T10:22:06.640Z",
+  "wallet": "0xbEC9C3d164E2E8C640dc8efC330E92bafA6e7b07",
+  "results": [
+    {
+      "name": "Ethereum",
+      "chainId": 1,
+      "deployed": true,
+      "block": "26125540",
+      "implementation": "0x000100abaad02f1cfC8Bbe32bD5a564817339E72",
+      "implementationHash": "0x179bcb847d3401ac830789a21cc37ed846fd5da9582a9c9d4b5140b6f26bd1a1",
+      "matchesVerifiedSource": true,
+      "proxyHash": "0xaaa52c8cc8a0e3fd27ce756cc6b4e70c51423e9b597b11f32d3e49f8b1fc890d",
+      "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+      "entryPointHash": "0xc93c806e738300b5357ecdc2e971d6438d34d8e4e17b99b758b1f9cac91c8e70",
+      "ownerCount": "2",
+      "nextOwnerIndex": "2",
+      "owners": [
+        {
+          "index": 0,
+          "bytes": "0xd0bb4457d774028362e9a27288d426e2adb6a55753c2e47d0c1df06be70800f1acdb9847b10bd152da59e57bd34c26912de490368445b6af44da4f3a13f78eed"
+        },
+        {
+          "index": 1,
+          "bytes": "0x000000000000000000000000f9a2f3ba4ca4362151abb273b73a693702e8faed"
+        }
+      ],
+      "deposit": "478530700913755",
+      "nativeBalance": "42545318270665547"
+    },
+    {
+      "name": "Base",
+      "chainId": 8453,
+      "deployed": true,
+      "block": "52203188",
+      "implementation": "0x000100abaad02f1cfC8Bbe32bD5a564817339E72",
+      "implementationHash": "0x179bcb847d3401ac830789a21cc37ed846fd5da9582a9c9d4b5140b6f26bd1a1",
+      "matchesVerifiedSource": true,
+      "proxyHash": "0xaaa52c8cc8a0e3fd27ce756cc6b4e70c51423e9b597b11f32d3e49f8b1fc890d",
+      "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+      "entryPointHash": "0xc93c806e738300b5357ecdc2e971d6438d34d8e4e17b99b758b1f9cac91c8e70",
+      "ownerCount": "2",
+      "nextOwnerIndex": "2",
+      "owners": [
+        {
+          "index": 0,
+          "bytes": "0xd0bb4457d774028362e9a27288d426e2adb6a55753c2e47d0c1df06be70800f1acdb9847b10bd152da59e57bd34c26912de490368445b6af44da4f3a13f78eed"
+        },
+        {
+          "index": 1,
+          "bytes": "0x000000000000000000000000f9a2f3ba4ca4362151abb273b73a693702e8faed"
+        }
+      ],
+      "deposit": "17065937694019",
+      "nativeBalance": "266397003150000"
+    },
+    {
+      "name": "Optimism",
+      "chainId": 10,
+      "deployed": true,
+      "block": "157798473",
+      "implementation": "0x000100abaad02f1cfC8Bbe32bD5a564817339E72",
+      "implementationHash": "0x179bcb847d3401ac830789a21cc37ed846fd5da9582a9c9d4b5140b6f26bd1a1",
+      "matchesVerifiedSource": true,
+      "proxyHash": "0xaaa52c8cc8a0e3fd27ce756cc6b4e70c51423e9b597b11f32d3e49f8b1fc890d",
+      "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+      "entryPointHash": "0xc93c806e738300b5357ecdc2e971d6438d34d8e4e17b99b758b1f9cac91c8e70",
+      "ownerCount": "2",
+      "nextOwnerIndex": "2",
+      "owners": [
+        {
+          "index": 0,
+          "bytes": "0xd0bb4457d774028362e9a27288d426e2adb6a55753c2e47d0c1df06be70800f1acdb9847b10bd152da59e57bd34c26912de490368445b6af44da4f3a13f78eed"
+        },
+        {
+          "index": 1,
+          "bytes": "0x000000000000000000000000f9a2f3ba4ca4362151abb273b73a693702e8faed"
+        }
+      ],
+      "deposit": "0",
+      "nativeBalance": "78983206618999350"
+    },
+    {
+      "name": "Arbitrum",
+      "chainId": 42161,
+      "deployed": true,
+      "block": "511894191",
+      "implementation": "0x000100abaad02f1cfC8Bbe32bD5a564817339E72",
+      "implementationHash": "0x179bcb847d3401ac830789a21cc37ed846fd5da9582a9c9d4b5140b6f26bd1a1",
+      "matchesVerifiedSource": true,
+      "proxyHash": "0xaaa52c8cc8a0e3fd27ce756cc6b4e70c51423e9b597b11f32d3e49f8b1fc890d",
+      "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+      "entryPointHash": "0xc93c806e738300b5357ecdc2e971d6438d34d8e4e17b99b758b1f9cac91c8e70",
+      "ownerCount": "2",
+      "nextOwnerIndex": "2",
+      "owners": [
+        {
+          "index": 0,
+          "bytes": "0xd0bb4457d774028362e9a27288d426e2adb6a55753c2e47d0c1df06be70800f1acdb9847b10bd152da59e57bd34c26912de490368445b6af44da4f3a13f78eed"
+        },
+        {
+          "index": 1,
+          "bytes": "0x000000000000000000000000f9a2f3ba4ca4362151abb273b73a693702e8faed"
+        }
+      ],
+      "deposit": "0",
+      "nativeBalance": "6107891219760685"
+    },
+    {
+      "name": "Polygon",
+      "chainId": 137,
+      "deployed": true,
+      "block": "94993716",
+      "implementation": "0x000100abaad02f1cfC8Bbe32bD5a564817339E72",
+      "implementationHash": "0x179bcb847d3401ac830789a21cc37ed846fd5da9582a9c9d4b5140b6f26bd1a1",
+      "matchesVerifiedSource": true,
+      "proxyHash": "0xaaa52c8cc8a0e3fd27ce756cc6b4e70c51423e9b597b11f32d3e49f8b1fc890d",
+      "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+      "entryPointHash": "0xc93c806e738300b5357ecdc2e971d6438d34d8e4e17b99b758b1f9cac91c8e70",
+      "ownerCount": "2",
+      "nextOwnerIndex": "2",
+      "owners": [
+        {
+          "index": 0,
+          "bytes": "0xd0bb4457d774028362e9a27288d426e2adb6a55753c2e47d0c1df06be70800f1acdb9847b10bd152da59e57bd34c26912de490368445b6af44da4f3a13f78eed"
+        },
+        {
+          "index": 1,
+          "bytes": "0x000000000000000000000000f9a2f3ba4ca4362151abb273b73a693702e8faed"
+        }
+      ],
+      "deposit": "941238476535349268",
+      "nativeBalance": "22749904636125660560"
+    },
+    {
+      "name": "BSC",
+      "chainId": 56,
+      "deployed": true,
+      "block": "125851296",
+      "implementation": "0x000100abaad02f1cfC8Bbe32bD5a564817339E72",
+      "implementationHash": "0x179bcb847d3401ac830789a21cc37ed846fd5da9582a9c9d4b5140b6f26bd1a1",
+      "matchesVerifiedSource": true,
+      "proxyHash": "0xaaa52c8cc8a0e3fd27ce756cc6b4e70c51423e9b597b11f32d3e49f8b1fc890d",
+      "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+      "entryPointHash": "0xc93c806e738300b5357ecdc2e971d6438d34d8e4e17b99b758b1f9cac91c8e70",
+      "ownerCount": "2",
+      "nextOwnerIndex": "2",
+      "owners": [
+        {
+          "index": 0,
+          "bytes": "0xd0bb4457d774028362e9a27288d426e2adb6a55753c2e47d0c1df06be70800f1acdb9847b10bd152da59e57bd34c26912de490368445b6af44da4f3a13f78eed"
+        },
+        {
+          "index": 1,
+          "bytes": "0x000000000000000000000000f9a2f3ba4ca4362151abb273b73a693702e8faed"
+        }
+      ],
+      "deposit": "0",
+      "nativeBalance": "0"
+    },
+    {
+      "name": "Avalanche",
+      "chainId": 43114,
+      "deployed": false,
+      "block": "96798873"
+    },
+    {
+      "name": "Zora",
+      "chainId": 7777777,
+      "deployed": false,
+      "block": "52250943"
+    },
+    {
+      "name": "ApeChain",
+      "chainId": 33139,
+      "deployed": false,
+      "block": "51185977"
+    },
+    {
+      "name": "Monad",
+      "chainId": 143,
+      "deployed": false,
+      "block": "110727124"
+    }
+  ]
+}
