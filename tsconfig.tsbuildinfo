@@ -1,1 +1,19 @@
-{"root":["./src/App.tsx","./src/abi.ts","./src/assets.ts","./src/chain.ts","./src/main.tsx","./src/signing.ts","./src/wallet.ts","./tests/live.test.ts","./tests/safety.test.ts","./vite.config.ts"],"version":"5.9.3"}
+{
+  "root": [
+    "./src/App.tsx",
+    "./src/abi.ts",
+    "./src/assets.ts",
+    "./src/chain.ts",
+    "./src/ens.ts",
+    "./src/identity.tsx",
+    "./src/main.tsx",
+    "./src/signing.ts",
+    "./src/wallet.ts",
+    "./tests/connection.test.ts",
+    "./tests/ens.test.ts",
+    "./tests/live.test.ts",
+    "./tests/safety.test.ts",
+    "./vite.config.ts"
+  ],
+  "version": "5.9.3"
+}
